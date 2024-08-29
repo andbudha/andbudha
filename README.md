@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Andrei, a full-stack developer proficient in:
 
-<!--
-**andbudha/andbudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **HTML5**
+- **SASS**
+- **CSS3**
+- **JavaScript**
+- **TypeScript**
+- **React.js**
+- **Redux**
+- **RTK**
+- **Context API**
+- **Formik**
+- **TailwindCSS**
+- **MUI**
+- **Axios**
+- **Firebase**
+- **Git/Github**
+- **MongoDB**
+- **Mongoose**
+- **Express.js**
+- **Node.js**
+- **Next.js**
+##
 
-Here are some ideas to get you started:
+### About me:
+**I'm a passionate full-stack developer with more than one year of experience in building single-page/full-stack applications, using React.js, and managing application state using libraries and features such as: Context API, Redux and Redux Toolkit (RTK). As far as component styling goes, besides CSS and SASS, I also use such React css frameworks and packages as: Material-UI, TailwindCSS and React-icons. To find out more about my coding skills, please access the following [link](https://portfolio-andrei-bartov.vercel.app/) .**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
