@@ -1,4 +1,4 @@
-### Hi there, I'm Andrei, a full-stack developer proficient in:
+### Hi there, I'm Andrei, a front-end developer proficient in:
 
 - HTML5
 - SASS
